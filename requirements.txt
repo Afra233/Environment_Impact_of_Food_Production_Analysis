@@ -1,0 +1,68 @@
+# Data manipulation and analysis
+pandas
+numpy 
+
+# To load multiple files
+glob  
+
+# Data visualization
+matplotlib.pyplot 
+seaborn
+
+# Statistical analysis
+scipy  
+stats
+
+# Date and time handling
+datetime
+
+# Geospatial analysis (if needed for visualizing trade routes)
+geopandas
+
+# Machine learning (if needed for predictive modeling)
+train_test_split
+StandardScaler
+LinearRegression
+mean_squared_error 
+r2_score
+
+# For handling large datasets (if needed)
+dask.dataframe
+
+# For interactive visualizations (optional)
+plotly.express
+plotly.graph_objects 
+
+# For data profiling- pandas (optional)
+#import ydata_profiling
+#from ydata_profiling import ProfileReport
+
+
+# For handling missing data
+SimpleImputer
+
+# For encoding categorical variables
+LabelEncoder
+OneHotEncoder
+
+# For advanced visualizations (optional)
+altair
+
+# For working with Excel files (if your data is in Excel format)
+openpyxl
+
+# For reading data from different file formats
+pyarrow
+
+# For working with large CSV files
+csv
+
+# For system operations
+os
+sys
+
+# For progress bars in data processing
+tqdm
+
+# Set plotting style
+# plt.style.use('seaborn')
