@@ -1,6 +1,4 @@
-# Environment_Impact_of_Food_Production_Analysis
-
-# Food Production and Environmental Impact Analysis
+# Environmental_Impact_of_Food_Production_Analysis
 
 ## Project Overview
 This project aims to analyze the environmental impacts of food production using a dataset that includes information on land use, water consumption, carbon footprints, and other sustainability metrics. The analysis will follow the CRISP-DM framework and provide actionable insights to address sustainability challenges in food production.
