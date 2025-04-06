@@ -49,3 +49,16 @@ The dataset includes 43 common food products and 23 variables related to their e
 - **Documentation**: Detailed README with methodology and results.
 - **Code & Scripts**: All Python scripts used in analysis.
 - **Presentation**: Business questions, insights, and recommendations.
+
+## Contribution
+Open to suggestions and improvements! Submit issues or pull requests.
+
+## Acknowledgments
+I would like to thank the Azubi Technical Team providing the data used in this analysis. Their efforts insharing this valuable information have made this project possible.
+
+## Contact Information
+For any questions or inquiries, please contact:
+
+Name: Nana Akua Afra Owusu-Addo
+
+Email: naaowusu.addo@gmail.com
