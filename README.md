@@ -103,6 +103,8 @@ Special thanks to the **Azubi Technical Team** for providing this invaluable dat
 📧 **Email**: [naaowusu.addo@gmail.com](mailto:naaowusu.addo@gmail.com)  
 🔗 **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/nana-akua-afra-owusu-addo/)
 
+nb: Here is a link to my medium article on this project! https://medium.com/@naaowusu.addo/from-plate-to-planet-why-what-you-eat-might-be-the-most-powerful-climate-choice-you-make-e5685844bfd1 
+
 Let's drive sustainable change together! 🌱✨
 
 ---
